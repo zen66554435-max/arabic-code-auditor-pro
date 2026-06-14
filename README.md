@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.png" alt="Arabic Code Auditor Pro" width="250">
+<img src="logo.PNG" alt="Arabic Code Auditor Pro" width="250">
 
 # 🔍 Arabic Code Auditor Pro
 
