@@ -1,10 +1,12 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zen66554435-max/arabic-code-auditor-pro/refs/heads/main/%20%20%20%20logo.PNG" alt="Arabic Code Auditor Pro" width="250">
-</div>
+
+<img src="https://raw.githubusercontent.com/zen66554435-max/arabic-code-auditor-pro/refs/heads/main/%20%20%20%20logo.PNG" alt="Arabic Code Auditor Pro" width="250">
 
 # 🔍 Arabic Code Auditor Pro
 
-**منصة عربية متكاملة لتحليل الأكواد وإصلاحها وشرحها وفحصها أمنياً**
+### منصة عربية متكاملة لتحليل الأكواد وإصلاحها وشرحها وفحصها أمنياً
+
+### 👨‍💻 المطور: الجنرال
 
 [![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)](https://github.com/zen66554435-max/arabic-code-auditor-pro)
 [![Python](https://img.shields.io/badge/Python-3.11+-green?style=for-the-badge&logo=python)](https://python.org)
@@ -13,7 +15,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-009688?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com)
 [![React](https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react)](https://react.dev)
 
-### تطوير عربي مفتوح المصدر
+### 🚀 مشروع عربي مفتوح المصدر للمطورين العرب
 
 </div>
 
